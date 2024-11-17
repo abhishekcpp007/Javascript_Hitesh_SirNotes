@@ -1,0 +1,21 @@
+*,::after,*::before{
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+h1{
+    
+    background-image: linear-gradient(  green 10%,rgb(211, 29, 47) 40%,rgb(39, 36, 39) 50%);
+     color: transparent;
+      background-clip: text; 
+      font-size: 85px;
+    
+}
